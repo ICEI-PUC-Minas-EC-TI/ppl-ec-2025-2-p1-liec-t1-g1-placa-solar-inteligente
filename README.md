@@ -1,17 +1,17 @@
-# TÍTULO DO PROJETO
+Placa Solar Inteligente
 
-`CAMPUS/UNIDADE`
+`PUC Minas Campus Lourdes`
 
-`CURSO`
+`Engenharia de Computação`
 
-`SEMESTRE`
+`1 Semestre`
 
-`DISCIPLINA`
+`Laboratório de Introdução à Engenharia de Computação`
 
 
 ## Integrantes
 
-* Nome completo do aluno 1
+* Matheus de Oliveira Chaves Teixeira
 * Nome completo do aluno 2
 * Nome completo do aluno 3
 * Nome completo do aluno 4
@@ -19,11 +19,11 @@
 
 ## Orientador
 
-* Nome completo do professor 1
+* Felipe Augusto Lara Soares
 
 ## Resumo
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto tem como objetivo produzir uma placa solar funcional e inteligente. Ela consiste em uma placa solar conectada a sensores de luz (LDRs), que detectam a luminosidade do ambiente e geram um sinal para o motor, que rotaciona a placa em direção à luz. Este sistema permite que a placa se ajuste continuamente à posição da fonte de luz, maximizando a eficiência da captação e, consequentemente, a geração de energia.
 
 # Código (do arduino ou esp32)
 
