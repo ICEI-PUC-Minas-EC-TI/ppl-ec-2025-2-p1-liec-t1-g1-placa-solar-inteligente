@@ -1,12 +1,12 @@
 ## Placa Solar Inteligente
 
-`PUC Minas Campus Lourdes`
+Unidade: `PUC Minas Campus Lourdes`
 
-`Engenharia de Computação`
+Curso: `Engenharia de Computação`
 
-`1 Semestre`
+Período: `1 período`
 
-`Laboratório de Introdução à Engenharia de Computação`
+Disciplina: `Laboratório de Introdução à Engenharia de Computação`
 
 
 ## Integrantes
