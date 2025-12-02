@@ -1,17 +1,21 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Este projeto consiste no desenvolvimento de um Rastreador Solar (Solar Tracker). Trata-se de um sistema robótico automatizado que movimenta uma placa fotovoltaica em direção à luz. O dispositivo busca garantir que o painel esteja sempre no melhor ângulo possível em relação a luz.
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que o seu projeto deve  resolver. Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. 
+Durante a análise do projeto notamos um problema nos painéis solares, a maioria deles utiliza suportes fixos, como a posição do sol muda ao longo do dia, os painéis fixos perdem eficiência significativa durante as manhãs e tardes, desperdiçando o potencial total de geração de energia ao captar a luz de forma oblíqua. Dessa forma, criamos uma solução que visa ajudar as empresas e os clientes que utilizam de placas solares para geração de energia.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um projeto para solucionar o problema apresentado acima. 
+O objetivo principal é construir um protótipo funcional que siga a fonte de luz automaticamente para maximizar a captação de energia. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Objetivos específicos:
+Detectar a luminosidade utilizando sensores (LDR).
+Controlar o movimento da estrutura através de microcontrolador e servomotores.
+Demonstrar a superioridade do sistema móvel sobre o estático.
  
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão o projeto. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, etc.
+Residencial: Pessoas que desejam otimizar a geração de energia solar em espaços limitados.
+Educacional: Estudantes e entusiastas de robótica interessados em automação e tecnologias verdes.
