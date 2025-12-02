@@ -3,14 +3,11 @@
 
 # Metodologia
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+O projeto foi dividido em módulos independentes (Montagem, Desenvolvimento do código fonte e Desenvolvimento do APP) que foram desenvolvidos e testados separadamente. Após a validação de cada etapa, procedeu-se à integração dos sistemas, permitindo a identificação rápida de falhas e o refinamento contínuo do protótipo até a versão final. As atividades práticas de montagem, soldagem e testes de hardware foram realizadas nas dependências do Laboratório de Engenharia de Computação da PUC. A organização da equipe e o gerenciamento das tarefas foram conduzidos através do WhatsApp.
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
-
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Aluno 1;
+A equipe foi organizada da seguinte maneira:
 - Equipe de Desenvolvimento: Aluno 1, Aluno 2, Aluno 3;
 
 
