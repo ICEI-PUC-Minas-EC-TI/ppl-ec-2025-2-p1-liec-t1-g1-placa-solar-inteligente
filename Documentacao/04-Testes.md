@@ -1,3 +1,3 @@
 # Testes do Projeto
 
-Descreva aqui como foram realizados os testes para o funcionamento do projeto. Descreva também os resultados encontrados e as limitações do projeto.
+Antes da montagem completa do Hardware testamos cada peça individualmente para garantir que todas estivessem funcionando. Após isso, prosseguimos com a montagem alinhada com o desenvolvimento do código, realizando os testes necessários. Quando ambos estavam prontos, realizamos um teste com uma sala escura e com uma fonte de luz (lanterna) e o projeto reagiu bem, captando a luz e rotacionando a placa em direção a ela. Logo após esse teste, fizemos um teste com a luz da sala acesa juntamente com a janela aberta e a lanterna ligada, criando um ambiente com várias fontes de luz. O projeto mais uma vez se saiu bem, os sensores detectaram qual fonte de luz era mais intensa e movimentou a placa em direção a ela. 
