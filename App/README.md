@@ -1,3 +1,3 @@
 # Código do App
 
-Mantenha neste diretório todo o código do Aplicativo. Para isso, salve aqui os arquivos .aia e o APK, ambos gerados pelo App Inventor.
+https://mega.nz/file/HgIAAITB#hoAhB5bNZTe_uUEOf1X38X-9QFvxluJKt51wkniZNDo
