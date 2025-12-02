@@ -11,10 +11,12 @@ Disciplina: `Laboratório de Introdução à Engenharia de Computação`
 
 ## Integrantes
 
-* Matheus de Oliveira Chaves Teixeira
-* Marco Tulio Monteiro Rocha
 * Amanda Rachide
 * Fernando Pinto de Queiroz
+* Marco Tulio Monteiro Rocha
+* Matheus de Oliveira Chaves Teixeira
+  
+
 
 ## Orientador
 
