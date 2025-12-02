@@ -14,7 +14,7 @@ Disciplina: `Laboratório de Introdução à Engenharia de Computação`
 * Matheus de Oliveira Chaves Teixeira
 * Marco Tulio Monteiro Rocha
 * Amanda Rachide
-* Nome completo do aluno 4
+* Fernando Pinto de Queiroz
 
 ## Orientador
 
