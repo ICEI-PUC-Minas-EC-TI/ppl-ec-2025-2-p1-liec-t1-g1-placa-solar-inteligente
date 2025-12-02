@@ -8,8 +8,8 @@ O projeto foi dividido em módulos independentes (Montagem, Desenvolvimento do c
 ### Divisão de Papéis
 
 A equipe foi organizada da seguinte maneira:
-- Montagem: Matheus, Fernando, Marco Túlio;
-- Desenvolvimento do código fonte: Matheus, Marco Túlio, Fernando e Amanda;
+- Montagem: Amanda, Fernando, Marco Túlio, Matheus;
+- Desenvolvimento do código fonte: Amanda, Fernando, Marco Túlio e Matheus;
 - Desenvolvimento do APP: Amanda;
 
 
