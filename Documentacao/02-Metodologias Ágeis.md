@@ -8,16 +8,17 @@ O projeto foi dividido em módulos independentes (Montagem, Desenvolvimento do c
 ### Divisão de Papéis
 
 A equipe foi organizada da seguinte maneira:
-- Equipe de Desenvolvimento: Aluno 1, Aluno 2, Aluno 3;
+- Montagem: Matheus, Fernando, Marco Túlio;
+- Desenvolvimento do código fonte: Matheus, Marco Túlio, Fernando e Amanda;
+- Desenvolvimento do APP: Amanda;
 
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. Cole aqui um print do quadro Kanban utilizado pelo grupo.
- 
+Todos os integrantes participaram ativamente do projeto, sempre contribuindo com a montagem ou com o desenvolvimento do código.  
 
 ### Ferramentas
 
 As ferramentas utilizadas no projeto foram:
 
-- Liste aqui as ferramentas utilizadas para desenvolvimento do projeto (como por exemplo: Arduino IDE, APP Inventor, trello e outros). Obs: não é para listar aqui os componentes utilizados.
+- Arduino IDE, APP Inventor.
