@@ -12,10 +12,9 @@ Disciplina: `Laboratório de Introdução à Engenharia de Computação`
 ## Integrantes
 
 * Matheus de Oliveira Chaves Teixeira
-* Nome completo do aluno 2
-* Nome completo do aluno 3
+* Marco Tulio Monteiro Rocha
+* Amanda Rachide
 * Nome completo do aluno 4
-* Nome completo do aluno 5
 
 ## Orientador
 
